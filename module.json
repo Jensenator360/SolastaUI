@@ -1,24 +1,24 @@
 {
   "id": "module",
-  "title": "SolastaUI",
+  "title": "New Module",
   "description": "",
   "version": "This is auto replaced",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
   "compatibility": {
-    "minimum": 9,
+    "minimum": 10,
     "verified": 10,
     "maximum": 11
   },
   "authors": [
     {
-      "name": "Jensenator",
+      "name": "The League of Extraordinary FVTT Developers",
       "url": "https://github.com/League-of-Foundry-Developers",
       "discord": "discordID#0001"
     }
   ],
   "relationships": [
-    "systems":[],
+    "systems": [],
     "requires": [],
   ],
   "esmodules": [
