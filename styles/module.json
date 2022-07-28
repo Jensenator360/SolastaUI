@@ -1,0 +1,16 @@
+{
+  "name": "5e UI",
+  "title": "5e UI",
+  "description": "A UI for 5e",
+  "version": "0.1",
+  "author": "Jensen",
+  "scripts": [ "5eui.js" ],
+  "styles": [ "5eui.css" ],
+  "esmodules": [],
+  "packs": [],
+  "url": "https://gitlab.com/Jensenator/5e-ui",
+  "manifest": "https://gitlab.com/Jensenator/5e-ui/-/raw/main/module.json",
+  "download": "https://gitlab.com/Jensenator/5e-ui/-/archive/main/5e_UI.zip",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9"
+}
