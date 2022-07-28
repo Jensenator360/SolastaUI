@@ -6,15 +6,15 @@
   "library": "false",
   "manifestPlusVersion": "1.2.0",
   "compatibility": {
-    "minimum": 10,
-    "verified": 10,
+    "minimum": 9,
+    "verified": 9,
     "maximum": 11
   },
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "Jensenator360",
+      "url": "https://github.com/Jensenator360",
+      "discord": "Jensenator#3796"
     }
   ],
   "relationships": {
