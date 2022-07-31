@@ -1,15 +1,19 @@
 {
     "id": "solasta-ui",
+    "name": "solasta-ui",
     "title": "SolastaUi",
     "description": "",
     "version": "1.0.0-alpha",
     "library": "false",
     "manifestPlusVersion": "1.2.0",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9.235",
     "compatibility": {
         "minimum": 9,
         "verified": 9,
         "maximum": 11
     },
+  
     "authors": [
         {
             "name": "Jensenator360",
