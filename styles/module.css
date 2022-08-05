@@ -147,7 +147,7 @@ body {
 
 #logo {
   content : url("ui/solasta_icon.png");
-  width: 64px;!important
+  width: 64px !important;
   height: 64px;
 }
 
