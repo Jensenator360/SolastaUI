@@ -147,7 +147,7 @@ body {
 
 #logo {
   content : url("ui/solasta_icon.png");
-  width: 64px;
+  width: 64px;!important
   height: 64px;
 }
 
@@ -220,6 +220,10 @@ body {
 }
 
 /* ==================== SETTINGS ==================== */
+#settings button {
+  border-radius: 0%;
+}
+
 .window-app .window-header {
   background: rgba(65, 75, 85, 0.95);
   border: 1px solid rgba(117, 127, 137, 0.86); 
