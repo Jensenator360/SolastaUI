@@ -208,8 +208,8 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #782e22;
-  border: 1px solid #111;
+  background: none;
+  border: none;
 }
 
 .sidebar-tab ::-webkit-scrollbar-thumb {
