@@ -197,6 +197,30 @@ body {
     background: rgb(39, 43, 46);
 }
 
+/* ==================== Scrollbar ===================== */
+
+::-webkit-scrollbar {
+  width: 14px;
+}
+
+::-webkit-scrollbar-track {
+  background: #111;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #782e22;
+  border: 1px solid #111;
+}
+
+.sidebar-tab ::-webkit-scrollbar-thumb {
+  background: #782e22;
+  border: 1px solid #111;
+}
+
+.sidebar-tab ::-webkit-scrollbar {
+  width: 8px;
+}
+
 /* ==================== CHAT ==================== */
 
 #chat-form {
